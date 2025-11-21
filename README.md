@@ -7,7 +7,7 @@ This project is a multi-sensor safety alert system designed to detect obstacles,
 
 ## First Prototype
 
-![First Prototype](stick.jpeg)
+![First Prototype]()
 
 The first prototype utilized **only the ultrasonic sensor** to measure distances.  
 The buzzer was programmed to beep **more frequently as objects got closer**, providing graded warnings based on proximity.  
